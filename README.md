@@ -1,6 +1,6 @@
 # svxlink_raspberry
 <h2>Script build for Raspberry Pi - Repeater or Hotspot. Pour l'instruction en Français, voir en bas.</h2>
-
+Video Explicativo https://www.youtube.com/watch?v=8gQLRULiRFA&t=408s
 <b>First Steps</b>
 <p>Requirements: Raspberry Pi of any mark. USB Soundcard, and an interface card (or a modified USB Soundcard and no interface). One or two transceivers (3 or 4 if you are making a double repeater, for which you will need a second USB soundcard.)</p>
 
